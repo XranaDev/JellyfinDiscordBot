@@ -7,4 +7,4 @@ Discord bot with administrator privileges
 # Installation
 Download main.py and fill in the information at the top, then run the file with python. Make sure your jellyfin server and discord bot are both running. 
 # Uaage
-In order to create an account, you must DM the bot and use the command '''!createaccount username password'''. then manually approve or deny the accounts creation.
+In order to create an account, you must DM the bot and use the command **!createaccount *username password***. then manually approve or deny the accounts creation.
